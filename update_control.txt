@@ -1,2 +1,2 @@
 njab89w57hw=false
-update-mods=false
+update-mods=true
